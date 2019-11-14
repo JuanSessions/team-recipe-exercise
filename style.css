@@ -1,0 +1,58 @@
+:root {
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+}
+
+body {
+    background-color: rgb(255, 228, 181);
+}
+
+main {
+    width: 60%;
+    margin-left: 20%;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Bree Serif', serif;
+    font-size: 4rem;
+    letter-spacing: 0.2rem;
+    line-height: 4rem;
+    color: rgb(128, 0, 0);
+    border-bottom: 1px dotted rgb(205, 133, 63);
+    margin-bottom: 1rem;
+}
+
+nav {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    width: 80%;
+    margin: 0 10% 0 10%;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    width: 80%;
+    margin: 0 10% 0 10%;
+    padding: 0;
+}
+
+nav li a {
+    width: 8rem;
+    margin: 0rem 2rem 0rem 2rem;
+}
+
+a:link,
+a:visited,
+a:active {
+    color: rgb(128, 0, 0);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(128, 0, 0);
+    text-decoration: underline;
+}
