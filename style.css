@@ -64,7 +64,7 @@ a:active{
 }
 a:hover{
     color: rgb(128, 0, 0);
-    text-decoration: underline;    
+    text-decoration: underline;
 }
 ul{
     font-family: 'Quicksand', sans-serif;
